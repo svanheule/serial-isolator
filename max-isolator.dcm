@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX12930
+D Dual-channel digital isolator,1.8 to 5V, 150Mbs, 3kV
+K Dual-channel digital isolator
+F https://datasheets.maximintegrated.com/en/ds/MAX12930-MAX12931.pdf
+$ENDCMP
+#
+#End Doc Library
